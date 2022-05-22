@@ -1,4 +1,4 @@
-# T2-Sistemas-de-Informacion
+# T2 Sistemas de Informacion
 Acá ponemos el jupyter a usar en la tarea :)
 
 ## Tareas:
