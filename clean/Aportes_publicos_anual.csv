@@ -1,0 +1,300 @@
+,ID Partido,Nombre Partido,Monto,Fecha de Pago,Trimestre,Ano
+0,rn,renovacion nacional,248112449,2016-09-05,primer aporte,2016
+1,pdc,partido democrata cristiano,273623453,2016-06-24,primer aporte,2016
+2,udi,union democrata independiente,324176809,2016-05-19,primer aporte,2016
+3,ppd,partido por la democracia,202470445,2016-09-05,primer aporte,2016
+4,ps,partido socialista de chile,203965625,2016-09-05,primer aporte,2016
+5,pcch,partido comunista de chile,93693504,2016-06-15,primer aporte,2016
+6,pr,partido radical de chile,86112849,2016-09-30,primer aporte,2016
+7,ph,partido humanista,25321162,2016-05-30,primer aporte,2016
+8,pp,partido progresista,28938471,2016-05-30,primer aporte,2016
+9,pmr,partido mas region,14276712,2016-08-29,primer aporte,2016
+10,drp,democracia regional patagonica,5425963,2016-07-13,primer aporte,2016
+11,pri,partido regionalista independiente,5425963,2016-06-24,primer aporte,2016
+12,pev,partido ecologista verde,16277890,2016-09-30,primer aporte,2016
+13,igualdad,igualdad,14469235,2016-09-30,primer aporte,2016
+14,rn,renovacion nacional,244242394,2016-06-24,segundo aporte,2016
+15,pdc,partido democrata cristiano,269505407,2016-06-30,segundo aporte,2016
+16,udi,union democrata independiente,319567334,2016-06-30,segundo aporte,2016
+17,ppd,partido por la democracia,199044075,2016-06-30,segundo aporte,2016
+18,ps,partido socialista de chile,200524720,2016-06-16,segundo aporte,2016
+19,pcch,partido comunista de chile,91324552,2016-06-30,segundo aporte,2016
+20,pr,partido radical de chile,83817588,2016-10-14,segundo aporte,2016
+21,ph,partido humanista,23799125,2016-07-13,segundo aporte,2016
+22,pp,partido progresista,27199000,2016-06-16,segundo aporte,2016
+23,pmr,partido mas region,13499983,2016-05-09,segundo aporte,2016
+24,drp,democracia regional patagonica,5099812,2016-07-13,segundo aporte,2016
+26,pri,partido regionalista independiente,11899562,2016-06-30,segundo aporte,2016
+28,amplitud,amplitud,1699937,2016-07-13,segundo aporte,2016
+31,pev,partido ecologista verde,15299437,2016-06-11,segundo aporte,2016
+32,igualdad,igualdad,13599500,2016-06-11,segundo aporte,2016
+33,rn,renovacion nacional,233227021,2016-08-30,tercer aporte,2016
+34,pdc,partido democrata cristiano,256266008,2016-08-30,tercer aporte,2016
+35,udi,union democrata independiente,307447804,2016-08-30,tercer aporte,2016
+36,ppd,partido por la democracia,181753303,2016-08-30,tercer aporte,2016
+37,ps,partido socialista de chile,193361167,2016-09-28,tercer aporte,2016
+38,pcch,partido comunista de chile,85232047,2016-01-12,tercer aporte,2016
+39,pr,partido radical de chile,77798711,2016-10-24,tercer aporte,2016
+40,ph,partido humanista,19018515,2016-10-24,tercer aporte,2016
+41,pp,partido progresista,21735445,2016-08-30,tercer aporte,2016
+42,pmr,partido mas region,11093980,2016-09-28,tercer aporte,2016
+43,drp,democracia regional patagonica,4075396,2017-01-17,tercer aporte,2016
+45,pri,partido regionalista independiente,12226188,2016-11-21,tercer aporte,2016
+46,evopoli,evolucion politica,21735445,2016-08-09,tercer aporte,2016
+48,pic,partido izquierda ciudadana de chile,8150792,2016-11-21,tercer aporte,2016
+49,amplitud,amplitud,12226188,2016-08-09,tercer aporte,2016
+52,rd,revolucion democratica,18961486,2016-01-12,tercer aporte,2016
+53,todos,todos,1358465,2017-01-19,tercer aporte,2016
+57,pev,partido ecologista verde,12226188,2016-11-24,tercer aporte,2016
+59,igualdad,igualdad,10867723,2016-11-24,tercer aporte,2016
+60,rn,renovacion nacional,229690541,2016-04-11,cuarto aporte,2016
+61,pdc,partido democrata cristiano,255148864,2017-01-17,cuarto aporte,2016
+62,udi,union democrata independiente,303848075,2016-02-12,cuarto aporte,2016
+63,ppd,partido por la democracia,180540306,2016-09-12,cuarto aporte,2016
+64,ps,partido socialista de chile,192162818,2016-09-12,cuarto aporte,2016
+65,pcch,partido comunista de chile,83894393,2017-10-01,cuarto aporte,2016
+66,pr,partido radical de chile,76451481,2017-01-17,cuarto aporte,2016
+67,ph,partido humanista,17776489,2016-09-12,cuarto aporte,2016
+68,pp,partido progresista,20315988,2016-09-12,cuarto aporte,2016
+69,pmr,partido mas region,8888245,2016-09-12,cuarto aporte,2016
+70,drp,democracia regional patagonica,3809248,2017-03-23,cuarto aporte,2016
+72,pri,partido regionalista independiente,16506740,2017-10-01,cuarto aporte,2016
+73,evopoli,evolucion politica,20315988,2016-12-24,cuarto aporte,2016
+75,pic,partido izquierda ciudadana de chile,7618495,2017-03-23,cuarto aporte,2016
+76,amplitud,amplitud,12697492,2017-03-01,cuarto aporte,2016
+79,rd,revolucion democratica,18623641,2017-01-27,cuarto aporte,2016
+80,todos,todos,3809248,2017-01-27,cuarto aporte,2016
+85,ciudadanos,ciudadanos,1269749,2017-09-26,cuarto aporte,2016
+86,pev,partido ecologista verde,11427743,2017-01-27,cuarto aporte,2016
+88,igualdad,igualdad,10157994,2017-01-03,cuarto aporte,2016
+89,rn,renovacion nacional,235357203,2017-01-03,primer aporte,2017
+90,pdc,partido democrata cristiano,261478116,2017-10-04,primer aporte,2017
+91,udi,union democrata independiente,311444798,2017-02-24,primer aporte,2017
+92,ppd,partido por la democracia,184927760,2017-03-20,primer aporte,2017
+93,ps,partido socialista de chile,196852765,2017-01-03,primer aporte,2017
+94,pcch,partido comunista de chile,85766492,2017-01-03,primer aporte,2017
+95,pr,partido radical de chile,78129867,2017-01-03,primer aporte,2017
+96,ph,partido humanista,17966693,2017-10-04,primer aporte,2017
+97,pp,partido progresista,20533364,2017-01-03,primer aporte,2017
+98,pmr,partido mas region,8983347,2017-05-31,primer aporte,2017
+99,drp,democracia regional patagonica,3850006,2017-05-07,primer aporte,2017
+101,pri,partido regionalista independiente,16683358,2017-03-20,primer aporte,2017
+102,evopoli,evolucion politica,20533364,2017-01-03,primer aporte,2017
+104,pic,partido izquierda ciudadana de chile,7700011,2017-11-04,primer aporte,2017
+105,amplitud,amplitud,12833352,2017-04-24,primer aporte,2017
+107,rd,revolucion democratica,19030505,2017-03-20,primer aporte,2017
+108,todos,todos,3850006,2017-10-04,primer aporte,2017
+111,ciudadanos,ciudadanos,3850006,2017-10-24,primer aporte,2017
+112,pev,partido ecologista verde,11550017,2017-05-22,primer aporte,2017
+114,igualdad,igualdad,10266682,2017-03-16,primer aporte,2017
+115,rn,renovacion nacional,235110802,2017-04-26,segundo aporte,2017
+116,pdc,partido democrata cristiano,261231716,2017-04-26,segundo aporte,2017
+117,udi,union democrata independiente,311198398,2017-04-24,segundo aporte,2017
+118,ppd,partido por la democracia,184681359,2017-04-24,segundo aporte,2017
+119,ps,partido socialista de chile,196606365,2017-02-05,segundo aporte,2017
+120,pcch,partido comunista de chile,85520092,2017-04-26,segundo aporte,2017
+121,pr,partido radical de chile,77883467,2017-05-22,segundo aporte,2017
+122,ph,partido humanista,17751093,2017-06-16,segundo aporte,2017
+123,pp,partido progresista,20286963,2017-10-05,segundo aporte,2017
+124,pmr,partido mas region,8875546,2017-06-16,segundo aporte,2017
+125,drp,democracia regional patagonica,3803806,2017-09-13,segundo aporte,2017
+127,pri,partido regionalista independiente,16483158,2017-02-05,segundo aporte,2017
+128,evopoli,evolucion politica,20286963,2017-10-05,segundo aporte,2017
+129,pic,partido izquierda ciudadana de chile,8875546,2017-09-13,segundo aporte,2017
+130,amplitud,amplitud,12679352,2017-06-16,segundo aporte,2017
+131,rd,revolucion democratica,18968905,2017-10-05,segundo aporte,2017
+132,todos,todos,5071741,2017-02-05,segundo aporte,2017
+134,frevs,federacion regionalista verde social,10177908,2017-10-11,segundo aporte,2017
+135,ciudadanos,ciudadanos,3803806,2017-10-11,segundo aporte,2017
+136,pev,partido ecologista verde,11411417,2017-06-16,segundo aporte,2017
+138,igualdad,igualdad,10143482,2017-02-05,segundo aporte,2017
+139,rn,renovacion nacional,232764722,2017-08-24,tercer aporte,2017
+140,pdc,partido democrata cristiano,260521602,2017-08-28,tercer aporte,2017
+141,udi,union democrata independiente,310568894,2017-08-24,tercer aporte,2017
+142,ppd,partido por la democracia,184240280,2017-08-28,tercer aporte,2017
+143,ps,partido socialista de chile,196113218,2017-08-21,tercer aporte,2017
+144,pcch,partido comunista de chile,85362637,2017-09-08,tercer aporte,2017
+145,pr,partido radical de chile,77753982,2017-08-28,tercer aporte,2017
+146,ph,partido humanista,16549355,2017-09-27,tercer aporte,2017
+147,pp,partido progresista,20368437,2017-10-19,tercer aporte,2017
+148,drp,democracia regional patagonica,3819082,2018-11-01,tercer aporte,2017
+150,pri,partido regionalista independiente,16549355,2018-01-15,tercer aporte,2017
+151,evopoli,evolucion politica,20368437,2017-04-09,tercer aporte,2017
+152,pic,partido izquierda ciudadana de chile,8911191,2017-11-17,tercer aporte,2017
+153,amplitud,amplitud,8911191,2017-09-27,tercer aporte,2017
+154,rd,revolucion democratica,20105260,2017-03-10,tercer aporte,2017
+155,todos,todos,5092109,2017-09-08,tercer aporte,2017
+157,frevs,federacion regionalista verde social,15070853,2017-11-15,tercer aporte,2017
+158,ciudadanos,ciudadanos,10184218,2017-11-15,tercer aporte,2017
+159,pev,partido ecologista verde,8911191,2017-09-08,tercer aporte,2017
+162,pdc,partido democrata cristiano,231462980,2017-11-30,cuarto aporte,2017
+163,udi,union democrata independiente,257469753,2017-10-31,cuarto aporte,2017
+164,ppd,partido por la democracia,309267151,2017-11-16,cuarto aporte,2017
+165,ps,partido socialista de chile,181609494,2017-10-30,cuarto aporte,2017
+166,pcch,partido comunista de chile,196727224,2017-11-23,cuarto aporte,2017
+167,pr,partido radical de chile,83564950,2017-11-30,cuarto aporte,2017
+168,ph,partido humanista,76014354,2017-11-13,cuarto aporte,2017
+169,pp,partido progresista,15491690,2017-11-23,cuarto aporte,2017
+170,drp,democracia regional patagonica,19066695,2017-11-12,cuarto aporte,2017
+172,pri,partido regionalista independiente,8322610,2018-11-01,cuarto aporte,2017
+173,evopoli,evolucion politica,19066695,2018-12-02,cuarto aporte,2017
+174,pic,partido izquierda ciudadana de chile,19066695,2017-11-23,cuarto aporte,2017
+175,amplitud,amplitud,8341679,2018-01-21,cuarto aporte,2017
+176,rd,revolucion democratica,9533347,2017-12-15,cuarto aporte,2017
+177,todos,todos,24465139,2017-11-14,cuarto aporte,2017
+179,frevs,federacion regionalista verde social,3575005,2017-11-30,cuarto aporte,2017
+180,ciudadanos,ciudadanos,14664059,2017-12-16,cuarto aporte,2017
+182,pev,partido ecologista verde,5958342,2018-08-20,cuarto aporte,2017
+184,rn,renovacion nacional,8341679,2017-10-30,cuarto aporte,2017
+186,udi,union democrata independiente,235314552,2018-01-02,primer aporte,2018
+187,ppd,partido por la democracia,261762241,2018-01-25,primer aporte,2018
+188,ps,partido socialista de chile,314437806,2018-01-25,primer aporte,2018
+189,pcch,partido comunista de chile,184615856,2018-01-30,primer aporte,2018
+190,pr,partido radical de chile,199989891,2018-01-31,primer aporte,2018
+191,ph,partido humanista,84909078,2018-01-23,primer aporte,2018
+192,pp,partido progresista,77230470,2018-01-25,primer aporte,2018
+193,drp,democracia regional patagonica,15695329,2018-01-25,primer aporte,2018
+195,pri,partido regionalista independiente,6036665,2018-10-05,primer aporte,2018
+196,evopoli,evolucion politica,8445555,2018-08-02,primer aporte,2018
+197,pic,partido izquierda ciudadana de chile,19317328,2018-04-05,primer aporte,2018
+198,amplitud,amplitud,19317328,2018-07-02,primer aporte,2018
+199,rd,revolucion democratica,8451331,2018-11-04,primer aporte,2018
+200,todos,todos,9658664,2018-02-17,primer aporte,2018
+201,frevs,federacion regionalista verde social,24839068,2018-01-02,primer aporte,2018
+202,ciudadanos,ciudadanos,4829332,2018-11-04,primer aporte,2018
+204,pev,partido ecologista verde,9658664,2018-07-03,primer aporte,2018
+206,igualdad,igualdad,9658664,2018-01-23,primer aporte,2018
+207,rn,renovacion nacional,8451331,2018-01-25,primer aporte,2018
+208,pdc,partido democrata cristiano,8451331,2019-08-01,primer aporte,2018
+209,udi,union democrata independiente,260742863,2018-04-05,segundo aporte,2018
+210,ppd,partido por la democracia,145939809,2018-05-16,segundo aporte,2018
+211,ps,partido socialista de chile,237566122,2018-04-05,segundo aporte,2018
+212,pcch,partido comunista de chile,102595700,2018-04-26,segundo aporte,2018
+213,pr,partido radical de chile,148265114,2018-10-05,segundo aporte,2018
+214,ph,partido humanista,81850091,2018-08-05,segundo aporte,2018
+215,pp,partido progresista,68520464,2018-05-22,segundo aporte,2018
+216,pri,partido regionalista independiente,73150961,2018-05-16,segundo aporte,2018
+217,evopoli,evolucion politica,64481721,2018-04-05,segundo aporte,2018
+218,pic,partido izquierda ciudadana de chile,19173704,2018-08-05,segundo aporte,2018
+219,rd,revolucion democratica,77338066,2018-11-05,segundo aporte,2018
+220,todos,todos,7651655,2018-06-15,segundo aporte,2018
+221,frevs,federacion regionalista verde social,89539619,2018-05-16,segundo aporte,2018
+222,ciudadanos,ciudadanos,4793426,2018-04-30,segundo aporte,2018
+224,pev,partido ecologista verde,9586851,2018-04-30,segundo aporte,2018
+226,igualdad,igualdad,38890977,2018-04-26,segundo aporte,2018
+227,rn,renovacion nacional,28292814,2018-05-05,segundo aporte,2018
+228,pdc,partido democrata cristiano,37805476,2019-09-01,segundo aporte,2018
+229,udi,union democrata independiente,268213944,2018-04-09,tercer aporte,2018
+230,ppd,partido por la democracia,148985113,2018-08-30,tercer aporte,2018
+231,ps,partido socialista de chile,241258263,2018-08-23,tercer aporte,2018
+232,pcch,partido comunista de chile,105166819,2018-08-23,tercer aporte,2018
+233,pr,partido radical de chile,151251273,2018-09-25,tercer aporte,2018
+234,ph,partido humanista,84248902,2018-09-25,tercer aporte,2018
+235,evopoli,evolucion politica,70808563,2018-12-09,tercer aporte,2018
+236,rd,revolucion democratica,74101781,2018-09-26,tercer aporte,2018
+237,frevs,federacion regionalista verde social,79699402,2018-05-10,tercer aporte,2018
+239,ciudadanos,ciudadanos,28321951,2018-08-29,tercer aporte,2018
+241,pri,partido regionalista independiente democrata,10525972,2019-06-19,tercer aporte,2018
+242,pev,partido ecologista verde,74879242,2018-09-14,tercer aporte,2018
+243,igualdad,igualdad,21043308,2019-06-20,tercer aporte,2018
+244,rn,renovacion nacional,44020728,2019-08-01,tercer aporte,2018
+246,udi,union democrata independiente,42819106,2019-01-17,tercer aporte,2018
+247,ppd,partido por la democracia,267384566,2018-11-27,cuarto aporte,2018
+248,ps,partido socialista de chile,149941539,2018-12-14,cuarto aporte,2018
+249,pcch,partido comunista de chile,242214690,2018-12-11,cuarto aporte,2018
+250,pr,partido radical de chile,106123245,2018-11-16,cuarto aporte,2018
+251,ph,partido humanista,152207700,2018-12-14,cuarto aporte,2018
+252,evopoli,evolucion politica,85205329,2018-11-27,cuarto aporte,2018
+253,rd,revolucion democratica,71764990,2019-01-02,cuarto aporte,2018
+254,frevs,federacion regionalista verde social,75121616,2018-12-14,cuarto aporte,2018
+256,ciudadanos,ciudadanos,91844232,2019-04-04,cuarto aporte,2018
+258,pri,partido regionalista independiente democrata,3883830,2019-03-13,cuarto aporte,2018
+259,pev,partido ecologista verde,10356880,2019-06-28,cuarto aporte,2018
+261,igualdad,igualdad,21999734,2019-06-21,cuarto aporte,2018
+262,rn,renovacion nacional,42493616,2019-08-01,cuarto aporte,2018
+263,pdc,partido democrata cristiano,29131908,2019-08-22,cuarto aporte,2018
+264,udi,union democrata independiente,40018520,2019-01-17,cuarto aporte,2018
+265,ppd,partido por la democracia,268128891,2019-02-20,primer aporte,2019
+266,ps,partido socialista de chile,164191105,2019-02-14,primer aporte,2019
+267,pcch,partido comunista de chile,240857598,2019-01-28,primer aporte,2019
+268,pr,partido radical de chile,106490904,2019-07-02,primer aporte,2019
+269,ph,partido humanista,156994297,2019-02-25,primer aporte,2019
+270,evopoli,evolucion politica,85524129,2019-02-21,primer aporte,2019
+271,rd,revolucion democratica,72052397,2019-04-04,primer aporte,2019
+272,frevs,federacion regionalista verde social,75606801,2019-02-14,primer aporte,2019
+274,pl,partido liberal de chile,94037220,2019-08-04,primer aporte,2019
+275,ciudadanos,ciudadanos,28317405,2019-02-22,primer aporte,2019
+277,pev,partido ecologista verde,10931906,2019-05-13,primer aporte,2019
+279,igualdad,igualdad,76132584,2019-02-18,primer aporte,2019
+280,rn,renovacion nacional,42663331,2019-02-13,primer aporte,2019
+281,pdc,partido democrata cristiano,29249275,2019-08-23,primer aporte,2019
+282,udi,union democrata independiente,40208271,2019-09-04,primer aporte,2019
+283,ppd,partido por la democracia,268040173,2019-05-17,segundo aporte,2019
+284,ps,partido socialista de chile,164102386,2019-07-05,segundo aporte,2019
+285,pcch,partido comunista de chile,240768879,2019-04-25,segundo aporte,2019
+286,pr,partido radical de chile,106402186,2019-02-05,segundo aporte,2019
+287,ph,partido humanista,156905579,2019-05-29,segundo aporte,2019
+288,evopoli,evolucion politica,85435411,2019-05-22,segundo aporte,2019
+289,rd,revolucion democratica,71963679,2019-07-22,segundo aporte,2019
+290,frevs,federacion regionalista verde social,75533739,2019-06-26,segundo aporte,2019
+292,pl,partido liberal de chile,92641977,2019-05-23,segundo aporte,2019
+293,ciudadanos,ciudadanos,28291311,2019-09-05,segundo aporte,2019
+295,pev,partido ecologista verde,10916250,2019-05-13,segundo aporte,2019
+297,igualdad,igualdad,71900347,2019-07-05,segundo aporte,2019
+298,rn,renovacion nacional,42611144,2019-05-17,segundo aporte,2019
+299,pdc,partido democrata cristiano,29212744,2019-08-26,segundo aporte,2019
+300,udi,union democrata independiente,40166521,2020-09-04,segundo aporte,2019
+301,ppd,partido por la democracia,268491006,2019-08-16,tercer aporte,2019
+302,ps,partido socialista de chile,163271566,2019-08-22,tercer aporte,2019
+303,pcch,partido comunista de chile,240418988,2019-07-31,tercer aporte,2019
+304,pr,partido radical de chile,106576150,2019-08-28,tercer aporte,2019
+305,ph,partido humanista,155816757,2019-04-10,tercer aporte,2019
+306,evopoli,evolucion politica,85886245,2019-02-09,tercer aporte,2019
+307,rd,revolucion democratica,72004882,2019-02-12,tercer aporte,2019
+308,frevs,federacion regionalista verde social,73548216,2019-09-30,tercer aporte,2019
+310,pl,partido liberal de chile,92706235,2019-10-28,tercer aporte,2019
+311,ciudadanos,ciudadanos,28423909,2019-07-08,tercer aporte,2019
+313,pev,partido ecologista verde,10995808,2019-08-19,tercer aporte,2019
+315,igualdad,igualdad,72351181,2019-12-08,tercer aporte,2019
+316,rn,renovacion nacional,42876340,2019-08-29,tercer aporte,2019
+317,pdc,partido democrata cristiano,30724363,2019-03-09,tercer aporte,2019
+318,udi,union democrata independiente,43030640,2020-06-16,tercer aporte,2019
+319,ppd,partido por la democracia,273895742,2019-11-13,cuarto aporte,2019
+320,ps,partido socialista de chile,166239240,2019-11-15,cuarto aporte,2019
+321,pcch,partido comunista de chile,245184285,2019-10-28,cuarto aporte,2019
+322,pr,partido radical de chile,107127205,2019-11-29,cuarto aporte,2019
+323,ph,partido humanista,158579584,2019-02-12,cuarto aporte,2019
+324,evopoli,evolucion politica,87009389,2019-04-11,cuarto aporte,2019
+325,rd,revolucion democratica,72812151,2020-02-28,cuarto aporte,2019
+326,nuevo tiempo,nuevo tiempo,76739266,2019-11-18,cuarto aporte,2019
+327,frevs,federacion regionalista verde social,81529219,2019-11-14,cuarto aporte,2019
+329,pl,partido liberal de chile,3914040,2020-02-21,cuarto aporte,2019
+330,ciudadanos,ciudadanos,28828416,2019-04-12,cuarto aporte,2019
+332,pev,partido ecologista verde,11096456,2019-11-20,cuarto aporte,2019
+334,rn,renovacion nacional,73156964,2019-06-11,cuarto aporte,2019
+335,pdc,partido democrata cristiano,44662439,2019-12-23,cuarto aporte,2019
+336,udi,union democrata independiente,31025634,2019-11-21,cuarto aporte,2019
+337,ppd,partido por la democracia,281307855,2020-02-27,primer aporte,2020
+338,ps,partido socialista de chile,170961822,2020-01-29,primer aporte,2020
+339,pr,partido radical de chile,252641809,2020-01-23,primer aporte,2020
+340,ph,partido humanista,111403113,2020-02-19,primer aporte,2020
+341,evopoli,evolucion politica,162871034,2020-03-23,primer aporte,2020
+342,rd,revolucion democratica,71684356,2020-03-23,primer aporte,2020
+343,nuevo tiempo,nuevo tiempo,79033741,2020-02-17,primer aporte,2020
+344,frevs,federacion regionalista verde social,84570672,2020-02-20,primer aporte,2020
+346,pl,partido liberal de chile,4019961,2020-02-03,primer aporte,2020
+347,ciudadanos,ciudadanos,29608565,2020-03-02,primer aporte,2020
+349,pev,partido ecologista verde,11396746,2020-02-20,primer aporte,2020
+351,rn,renovacion nacional,75136724,2020-02-28,primer aporte,2020
+352,pdc,partido democrata cristiano,45871085,2020-02-17,primer aporte,2020
+353,udi,union democrata independiente,31865243,2020-09-04,primer aporte,2020
+354,ppd,partido por la democracia,280513212,2020-04-30,segundo aporte,2020
+355,ps,partido socialista de chile,170167179,2020-04-24,segundo aporte,2020
+356,ph,partido humanista,251847165,2020-04-22,segundo aporte,2020
+357,evopoli,evolucion politica,110608469,2020-04-30,segundo aporte,2020
+358,rd,revolucion democratica,160228744,2020-05-20,segundo aporte,2020
+359,nuevo tiempo,nuevo tiempo,78379329,2020-05-13,segundo aporte,2020
+360,frevs,federacion regionalista verde social,83776028,2020-04-05,segundo aporte,2020
+362,pl,partido liberal de chile,3879730,2020-04-05,segundo aporte,2020
+363,ciudadanos,ciudadanos,29374846,2020-04-29,segundo aporte,2020
+365,pev,partido ecologista verde,11256515,2020-04-29,segundo aporte,2020
